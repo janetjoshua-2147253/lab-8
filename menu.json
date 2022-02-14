@@ -1,4 +1,4 @@
-{"records":[{"category":'HOT BEVERAGES',"item_name" :"CAPPUCCINO","price" :80.50,"rating" :4.5},
+{"records":[{"category":"HOT BEVERAGES","item_name" :"CAPPUCCINO","price" :80.50,"rating" :4.5},
         {"category":'COLD BEVERAGES',"item_name" :"ICED TEA","price" :90.00,"rating" :4},
         {"category":'HOT BEVERAGES',"item_name" :"HOT CHOCOLATE","price" :120.00,"rating" :5},
         {"category":'COLD BEVERAGES',"item_name" :"ICED LATTE","price" :110.00,"rating" :4.7},
